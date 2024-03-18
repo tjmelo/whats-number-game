@@ -14,7 +14,7 @@
   - [Build](#build)
   - [Simple Develop Process](#simple-develop-process)
   - [Docker Develop Process](#docker-develop-process)
-  - [NPM Package](#npm-package)
+  <!-- - [NPM Package](#npm-package) -->
 
 # About app
 
@@ -28,8 +28,8 @@ Choose a number! If not correct, try again. It might be smaller or bigger in eac
 # Preview Screens
 Start app
 ![Preview](/public/img/What-s-number-screen-1.jpeg)
-![Preview](/public/img/wng-screen.webm)
 
+https://github.com/tjmelo/whats-number-game/assets/5209592/96265405-ec8e-4231-ad5e-bdfab77805d7
 
 ### Project Details
 
@@ -88,7 +88,7 @@ npm install && npm start
 
 ## Docker Develop Process
 
-[![image-docker-ci](https://github.com/tjmelo/whats-number-game/actions/workflows/ghpckg-image-ci.yml/badge.svg)](https://github.com/tjmelo/whats-number-game/actions/workflows/ghpckg-image-ci.yml)
+<!-- [![image-docker-ci](https://github.com/tjmelo/whats-number-game/actions/workflows/ghpckg-image-ci.yml/badge.svg)](https://github.com/tjmelo/whats-number-game/actions/workflows/ghpckg-image-ci.yml) -->
 
 ```sh
 git clone https://github.com/tjmelo/whats-number-game.git
