@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "html-webpack-plugin": "^5.2.0",
-    "webpack": "^5.70.0",
+    "webpack": "^5.91.0",
     "webpack-merge": "^5.8.0"
   }
 }
