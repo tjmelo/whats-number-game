@@ -24,7 +24,7 @@
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^4.7.4"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "What's number game",
   "name": "whats-number-game",
   "homepage": "http://tjmelo.github.io/whats-number-game/",
