@@ -9,7 +9,5 @@ export const feedback = (cls: string, text: string): object | undefined => {
     element.className = cls;
     element.textContent = text;
 
-    if (UTILS.FEEDBACK !== null) {
-        return UTILS.FEEDBACK.appendChild(element)
-    }
+    return UTILS.FEEDBACK!.appendChild(element)
 }
