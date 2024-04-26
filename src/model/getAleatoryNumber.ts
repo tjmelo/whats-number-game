@@ -11,7 +11,7 @@ export const getAleatoryNumber = async (): Promise<number | unknown> => {
         
         const getValueNumberByAPI = getStatusByAPI === 200 
             ? await getRequestByAPI.json()
-            : console.warn(getStatusByAPI)
+            : location.reload()
         
         return getValueNumberByAPI.value
 
